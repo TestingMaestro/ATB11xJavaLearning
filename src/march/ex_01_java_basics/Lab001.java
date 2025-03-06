@@ -1,4 +1,4 @@
-package march;
+package march.ex_01_java_basics;
 
 public class Lab001
 {
