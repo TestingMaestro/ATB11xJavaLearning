@@ -1,4 +1,4 @@
-package b_april.Ex_30_Exceptions;
+package b_april.ex_30_Exceptions;
 
 import java.util.Scanner;
 

@@ -1,6 +1,4 @@
-package b_april.Ex_30_Exceptions;
-
-import javax.imageio.stream.FileImageInputStream;
+package b_april.ex_30_Exceptions;
 
 public class Lab218_Checked_Exception
 {
